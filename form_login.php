@@ -39,7 +39,7 @@
             <div class="col-xl-5 col-lg-6 col-md-8 px-5">
 			<img src="<?=base_url('')?>/assets/assets/img/brand/unla.png" width="100px">
               <h1 class="text-white">Selamat Datang</h1>
-              <p class="text-lead text-white">Login Absensi Universitas Langlangbuana</p>
+              <p class="text-lead text-white">Login Absensi Universitas Langlangbuana 2021</p>
             </div>
           </div>
         </div>
